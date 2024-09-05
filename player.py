@@ -23,9 +23,9 @@ class Player:
         time.sleep(2)
 
     def show_anxiety(self):
-        if self.anxiety >= 0 and self.anxiety < 40:
+        if self.anxiety >= 0 and self.anxiety < 20:
             print("Low level of anxiety")
-        elif self.anxiety >= 40 and self.anxiety < 60:
+        elif self.anxiety >= 20 and self.anxiety < 60:
             print("Moderate level of anxiety")
         elif self.anxiety >= 60:
             print("High level of anxiety")
