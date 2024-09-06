@@ -8,12 +8,18 @@
 
 
 ## Table of Contents
+- [Important Note](#Important-Note)
 - [Introduction](#introduction)
 - [Game Mechanics](#game-mechanics)
 - [Files](#files)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [License](#license)
+
+
+## Important Note
+Because GitHub limits the size for uploading any document, a file called Office.wav was uploaded to the repository, which is in 8 bits, which is why it sounds very bad when the game is running. For this reason it is recommended to download Office.wav from this link: https://javerianacaliedu-my.sharepoint.com/:u:/g/personal/kevinjave_javerianacali_edu_co/ESL86CQO8ANPtSYvhp_bOQ4B1YOQN-QCWfv2gd8vzvM0dg?nav=eyJyZWZlcnJhbEluZm8iOnsicm VmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVz TGlua0NvcHkifX0&e=8o6Tjy,
+you just need to put it in the "Audios" folder
 
 ## Introduction
 
